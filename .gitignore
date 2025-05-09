@@ -20,3 +20,5 @@ vendor/
 # Build files
 dist/
 build/ 
+# Local Netlify folder
+.netlify
